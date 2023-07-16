@@ -1,0 +1,2 @@
+# Rank6SsinglegeneratorSITAs
+
