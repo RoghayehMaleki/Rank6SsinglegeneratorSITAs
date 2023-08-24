@@ -287,7 +287,7 @@ g2:=PermutationMat((4,5),6);
 G:=Group([g1,g2]); 
 
 L := [];;
-for N in [6..20] do Print("                                       \n \n N=",N,"\n \n"); 
+for N in [8..9] do Print("                                       \n \n N=",N,"\n \n"); 
 
 
 for k1 in [2..N-5] do A2:=[]; M2:=k1^2-k1; M2:=Minimum(M2,N-k1-4); 
